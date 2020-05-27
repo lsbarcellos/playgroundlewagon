@@ -1,0 +1,75 @@
+body{
+	background:#0095bb ;
+	color: #0B0500;
+	font-size: 20px;
+	font-family: Helvetica;
+	margin:0;
+}
+h1{
+  font-family: Noto Sans JP, sans-serif;
+  color: #2F3061;
+  font-weight: lighter;
+  font-size: 80px;
+}
+h2 {
+  font-family: Noto Sans JP, sans-serif;
+  color: #D5A021;
+  font-weight: lighter;
+  font-size: 40px;
+}
+a {
+  color: #2F3061;
+}
+a:hover {
+  text-decoration: none;
+  color: #E5D0CC;
+  font-size: 30px;
+}
+.title-t {
+	color: #EEE0CB;
+}
+#header{
+	background-color: #62BFED;
+	background-image: url("images/escolhahelena.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 250px;
+    background-position: right center;
+    background-size: cover;
+	margin: 10px;
+	padding: 100px;
+	padding-top: 20px;
+	border-radius: 10px;
+	text-align: center;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  margin: 50px;
+  border-radius:50px;
+  text-align: center;
+  border: 3px;
+  box-shadow: 5px 10px #2F3061;
+  border-style: solid;
+  border-color: #2F3061;
+  background-color: #62BFED;
+}
+.card h2:hover{
+	font-size: 45px;
+}
+#header p{
+	font-size:25px;
+}#footer {
+	background-color: black;
+	color:white;
+	text-align: center;
+	padding: 50px;
+}
+#footer a{
+	color: white;
+	font-size: 15px;
+}
+#footer a:hover{
+	color:grey;
+	font-size: 20px;
+}
